@@ -1,0 +1,32 @@
+.advertising-container {
+    margin-top: 5.75rem;
+    margin-inline: 2.25rem;
+}
+
+.advertising-container h3 {
+    font-style: Bold;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    line-height: 100%;
+    vertical-align: Top;
+    color: var(--title-color);
+    margin-bottom: 0.6875rem;
+}
+.ads-1 {
+    font-family: 'League Spartan', sans-serif;
+    font-style: Bold;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 16px;
+    color: var(--text-color);
+    margin-bottom: 0.5625rem;
+}
+
+.ads-2 {
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 19px;
+    color: var(--text-color);
+}

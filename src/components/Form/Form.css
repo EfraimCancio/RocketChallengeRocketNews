@@ -1,0 +1,41 @@
+.form-container {
+    margin-top: 3.125rem;
+    margin-left: 2.25rem;
+}
+
+.form-container label {
+    color: var(--text-color);
+    font-family: 'League Spartan', sans-serif;
+    font-style: Bold;
+    font-size: 19px;
+    Line-height: 19px;
+    margin-bottom: 1rem;
+}
+
+.input-container {
+    height: 3rem;
+    display: flex;
+    width: 60%;
+    margin-top: 1rem;
+    position: absolute;  
+    border: none;
+}
+
+.input-container span {
+    height: 100%;
+    width: 5px;
+    background-color: var(--title-color);
+    border: none;
+}
+
+.input-container input {
+    width: 100%;
+    padding-left: 1rem;
+}
+
+.input-container button {
+    height: 3rem;
+    width: 3rem;
+    background-color: var(--bg-button-color);
+    border: none;
+}

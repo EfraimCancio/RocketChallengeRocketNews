@@ -1,0 +1,21 @@
+.previewLink-container {
+    margin-top: 8.375rem;
+    margin-left: 2.25rem;
+    color: #fff;
+}
+
+.previewLink {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.previewLink p {
+    font-family: 'League Spartan', sans-serif;
+    font-style: Bold;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 19px;
+    vertical-align: center;
+    color: rgba(130, 87, 229, 1);
+}
